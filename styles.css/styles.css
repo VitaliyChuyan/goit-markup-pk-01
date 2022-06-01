@@ -35,10 +35,15 @@
 	margin-right: 30px;
 }
 .hero-container {
-	background-image: url("../img/backfon/BarberFon.jpg");
-   padding: 270px 0px 205px 96px;
+	background-image: url("../img/backfon/BarberFon1.jpg");
+   padding: 270px 0px 500px 96px;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.bbb {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
 }
 .intro {
 	   font-family: 'Open Sans';
